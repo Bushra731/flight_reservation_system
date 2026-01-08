@@ -1,16 +1,25 @@
-# flight_reservation_system
+# Flight Reservation System ✈️
 
-A new Flutter project.
+## 📌 Project Overview
+This is a Flight Reservation System developed as an academic project.
+The application allows users to search flights, book seats, and manage reservations.
 
-## Getting Started
+## 🛠️ Technologies Used
+- Flutter
+- Dart
+- Firebase
 
-This project is a starting point for a Flutter application.
+## 📱 Features
+- User Authentication
+- Flight Search
+- Flight Booking
+- Reservation Management
 
-A few resources to get you started if this is your first Flutter project:
+## ▶️ How to Run
+1. Clone the repository
+2. Run `flutter pub get`
+3. Run on emulator or physical device
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👨‍💻 Developed By
+- Name: Bushra Tanveer
+- University: COMSATS UNIVERSITY 
